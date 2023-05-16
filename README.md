@@ -16,8 +16,7 @@ This very basic express server is used as a base for CI/CD deployment exercises
 
 ### Collaborators
 
-401d53 and 401d10
-
+Recieved Code from Ryan Gallaway
 ### Setup
 
 #### `.env` requirements (where applicable)
