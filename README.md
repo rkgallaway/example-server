@@ -2,28 +2,30 @@
 
 ## Project: server-deployment-practice
 
-### Author: Ryan Gallaway
+### Author: Hayden Cooper
 
-### Problem Domain  
+### Problem Domain
 
 This very basic express server is used as a base for CI/CD deployment exercises
 
 ### Links and Resources
 
-- [GitHub Actions ci/cd](https://github.com/rkgallaway/server-deployment-practice-d51/actions) 
-- [back-end dev server url](http://xyz.com)
-- [back-end prod server url](http://xyz.com)
+- [GitHub Actions ci/cd](https://github.com/Hcooper23/example-server/actions/runs/4987580924)
+- [back-end dev server url](https://devexampleserver.onrender.com/)
+- [back-end prod server url](https://mainexampleserver.onrender.com/)
 
 ### Collaborators
 
+Forked Repo from Ryan Gallaway with permission as review done by class.
+
 401d53 and 401d10
 
-### Setup
+### Setup ///
 
 #### `.env` requirements (where applicable)
 
 port variable exists within the env sample
-
+node version "v19.6.1"
 
 #### How to initialize/run your application (where applicable)
 
