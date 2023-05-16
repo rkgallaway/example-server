@@ -2,7 +2,7 @@
 
 ## Project: server-deployment-practice
 
-### Author: Ryan Gallaway
+### Author: Malik Sadiki-Torres
 
 ### Problem Domain
 
