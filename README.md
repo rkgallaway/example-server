@@ -10,7 +10,7 @@ This very basic express server is used as a base for CI/CD deployment exercises
 
 ### Links and Resources
 
-- [GitHub Actions ci/cd](hhttps://github.com/TimM32/server-deployment-practice/actions)
+- [GitHub Actions ci/cd](https://github.com/TimM32/server-deployment-practice/actions)
 - [back-end dev server url](https://server-delpoyment-practice.onrender.com)
 - [back-end prod server url](https://server-delpoyment-prod.onrender.com)
 
