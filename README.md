@@ -2,21 +2,21 @@
 
 ## Project: server-deployment-practice
 
-### Author: Ryan Gallaway
+### Author: Tim Maupin
 
-### Problem Domain  
+### Problem Domain
 
 This very basic express server is used as a base for CI/CD deployment exercises
 
 ### Links and Resources
 
-- [GitHub Actions ci/cd](https://github.com/rkgallaway/server-deployment-practice-d51/actions) 
-- [back-end dev server url](http://xyz.com)
-- [back-end prod server url](http://xyz.com)
+- [GitHub Actions ci/cd](https://github.com/TimM32/server-deployment-practice/actions)
+- [back-end dev server url](https://server-delpoyment-practice.onrender.com)
+- [back-end prod server url](https://server-delpoyment-prod.onrender.com)
 
 ### Collaborators
 
-401d53 and 401d10
+401d53 and 401d10, Ryan Gallaway
 
 ### Setup
 
